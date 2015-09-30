@@ -1,0 +1,7 @@
+C:\work\up\decklink\DecklinkStreamer\FFM2\bin\Release\FFM2.dll
+C:\work\up\decklink\DecklinkStreamer\FFM2\bin\Release\FFM2.pdb
+C:\work\up\decklink\DecklinkStreamer\FFM2\bin\Release\Media.dll
+C:\work\up\decklink\DecklinkStreamer\FFM2\bin\Release\Media.pdb
+C:\work\up\decklink\DecklinkStreamer\FFM2\obj\Release\FFM2.csprojResolveAssemblyReference.cache
+C:\work\up\decklink\DecklinkStreamer\FFM2\obj\Release\FFM2.dll
+C:\work\up\decklink\DecklinkStreamer\FFM2\obj\Release\FFM2.pdb

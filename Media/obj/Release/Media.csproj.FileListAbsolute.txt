@@ -1,0 +1,5 @@
+C:\work\up\decklink\DecklinkStreamer\Media\bin\Release\Media.dll
+C:\work\up\decklink\DecklinkStreamer\Media\bin\Release\Media.pdb
+C:\work\up\decklink\DecklinkStreamer\Media\obj\Release\Media.csprojResolveAssemblyReference.cache
+C:\work\up\decklink\DecklinkStreamer\Media\obj\Release\Media.dll
+C:\work\up\decklink\DecklinkStreamer\Media\obj\Release\Media.pdb

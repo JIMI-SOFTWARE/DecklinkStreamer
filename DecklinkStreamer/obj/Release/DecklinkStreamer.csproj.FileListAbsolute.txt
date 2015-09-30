@@ -1,0 +1,15 @@
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\DecklinkStreamer.exe.config
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\Interop.DeckLinkAPI.dll
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.csproj.ResolveComReference.cache
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\DecklinkStreamer.exe
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\DecklinkStreamer.pdb
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.MainForm.resources
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.Properties.Resources.resources
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.csproj.GenerateResource.Cache
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.exe
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.pdb
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Release\DecklinkStreamer.csprojResolveAssemblyReference.cache
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\FFM2.dll
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\Media.dll
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\FFM2.pdb
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Release\Media.pdb

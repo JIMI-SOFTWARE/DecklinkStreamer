@@ -1,0 +1,11 @@
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Debug\DecklinkStreamer.exe.config
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Debug\DecklinkStreamer.exe
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\bin\Debug\DecklinkStreamer.pdb
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.csprojResolveAssemblyReference.cache
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.MainForm.resources
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.Properties.Resources.resources
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.csproj.GenerateResource.Cache
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.exe
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.pdb
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\Interop.DeckLinkAPI.dll
+C:\work\up\decklink\DecklinkStreamer\DecklinkStreamer\obj\Debug\DecklinkStreamer.csproj.ResolveComReference.cache
